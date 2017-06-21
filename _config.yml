@@ -2,7 +2,7 @@ title: Vuedesigndemo
 description: 其他项目的gh-pages
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-merlot
+theme: jekyll-theme-modernist
 
 gems:
   - jekyll-mentions
